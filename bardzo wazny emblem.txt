@@ -1,0 +1,99 @@
+coa_rd_dynasty_3977499378={
+	custom=yes
+	pattern="pattern__solid_designer.dds"
+	color1=blue
+	color2=yellow
+	color3=blue
+	colored_emblem={
+		color1=rgb { 175 20 0 }
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.500000 1.000000 }
+			scale={ 1.000000 0.640000 }
+			depth=1.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.590000 0.410000 }
+			scale={ 0.050000 0.240000 }
+			depth=6.010000
+		}
+
+		instance={
+			position={ 0.400000 0.400000 }
+			scale={ 0.050000 0.240000 }
+			depth=7.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 243 186 122 }
+		texture="ce_circle.dds"
+		instance={
+			position={ 0.510000 0.640000 }
+			scale={ 0.310000 0.310000 }
+			depth=4.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=black
+		texture="ce_crescent.dds"
+		instance={
+			position={ 0.500000 0.760000 }
+			scale={ 0.210000 0.120000 }
+			depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 251 194 123 }
+		texture="ce_waterlily.dds"
+		instance={
+			position={ 0.500000 0.560000 }
+			scale={ 0.310000 -0.420000 }
+			depth=5.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 20 40 57 }
+		texture="ce_inescutcheon.dds"
+		instance={
+			position={ 0.500000 0.160000 }
+			scale={ 1.000000 -0.540000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 241 184 128 }
+		texture="ce_circle_mask.dds"
+		instance={
+			scale={ 0.510000 0.750000 }
+			depth=8.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 180 29 7 }
+		texture="ce_letter_d.dds"
+		instance={
+			position={ 0.500000 1.000000 }
+			depth=2.010000
+			rotation=89
+		}
+
+	}
+
+}
